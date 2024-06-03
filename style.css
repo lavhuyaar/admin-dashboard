@@ -18,7 +18,6 @@ li {
   list-style-type: none;
 }
 
-
 /* Main-grid of the website */
 .container {
   width: 100%;
@@ -237,27 +236,27 @@ h2 {
 
 /* Titles*/
 .projects-title {
-    grid-column: 1 / 2;
-    grid-row: 1 / 2;
-    font-weight: 700;
-    font-size: 1.4rem;
-    margin: 40px 0px 0px 40px;
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin: 40px 0px 0px 40px;
 }
-  
+
 .announcements-title {
-    grid-column: 2 / 3;
-    grid-row: 1 / 2;
-    font-weight: 700;
-    font-size: 1.4rem;
-    margin: 40px 40px 0px 0px;
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin: 40px 40px 0px 0px;
 }
-  
+
 .trending-title {
-    grid-column: 2 / 3;
-    grid-row: 3 / 4;
-    font-weight: 700;
-    font-size: 1.4rem;
-    margin: 40px 40px 0px 0px;
+  grid-column: 2 / 3;
+  grid-row: 3 / 4;
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin: 40px 40px 0px 0px;
 }
 
 /* Projects grid (cards container) */
